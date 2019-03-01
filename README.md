@@ -22,8 +22,8 @@ It tests the following feature:
 3. Invalid Login scenario when users leave the password and email field empty.
 
 ## File Description
-Cucumber feature : src/test/java/features \ 
-Step Devinition : src/test/java/stepDefinition \ 
+Cucumber feature : src/test/java/features <br/>
+Step Devinition : src/test/java/stepDefinition <br/> 
 Extent Report : test-output/ExtentReportsTestNG.html 
 
 
